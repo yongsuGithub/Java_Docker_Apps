@@ -15,11 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-<<<<<<< HEAD
-//@CrossOrigin(origins = "http://localhost:4200", maxAge = 3600)
-=======
-//d@CrossOrigin(origins = "http://13.232.219.107:8082", maxAge = 3600)
->>>>>>> e4f35373d0d74072d4d036abbf766c0de1a87a5e
 @RestController
 @RequestMapping("/api")
 public class EmployeeController {
